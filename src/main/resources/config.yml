@@ -1,0 +1,15 @@
+####################################
+###   MOTD TOOLS || DATA FILE    ###
+### ---------------------------- ###
+### You can change all data with ###
+### in-game commands.            ###
+####################################
+
+motd1: '&1Minecraft Server'
+motd2:
+  - '&2Using Motd Tools NUM 1'
+  - '&2Using Motd Tools NUM 2'
+center1: false
+center2: false
+version: ''
+hover:

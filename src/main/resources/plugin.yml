@@ -1,0 +1,10 @@
+name: MotdTools
+main: eu.mjezek.motdtools.MotdTools
+version: 1.8
+author: mjezek
+softdepend: [ ProtocolLib, PlaceholderAPI ]
+
+commands:
+  motdtools:
+    description: Main command for Motd Tools
+    aliases: [ motd,mt ]
